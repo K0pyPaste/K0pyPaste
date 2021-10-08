@@ -93,11 +93,4 @@ JavaScript   1 hr 55 mins    ███████████▓░░░░░
 Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
-
-</div>
 -----
