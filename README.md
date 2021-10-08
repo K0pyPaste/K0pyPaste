@@ -46,7 +46,7 @@ Languages and Tools🛠:
 
 <a href="https://github.com/MiDCopyPaste">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDCopyPaste&theme=tokyonight" />
-  </a>
+</a>
 
 <a href="https://github.com/MiDCopyPaste">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiDCopyPaste&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
