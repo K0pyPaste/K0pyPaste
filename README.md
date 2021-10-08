@@ -23,7 +23,7 @@ Languages and Tools🛠:
 </details>
 
 ---
-
+<details>
 <summary> Connect with me🤝: </summary>  
 
 <br/>
