@@ -32,7 +32,7 @@ Languages and Tools🛠:
   <img align="left" alt="CopyPaste Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://www.instagram.com/mid_copypaste/">
+<a href="https://www.instagram.com/K0pypaste/">
   <img align="left" alt="CopyPaste Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
