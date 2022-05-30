@@ -46,11 +46,11 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/K0pyPaste">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0pyPaste&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=K0pyPaste&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <a href="https://github.com/K0pyPaste">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=K0pyPaste&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0pyPaste&theme=tokyonight" />
 </a>
 
 <br/>
