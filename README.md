@@ -28,7 +28,7 @@ Languages and Tools🛠:
 <br/>
 
 
-<a href="https://github.com/MiDCopyPaste">
+<a href="https://github.com/K0pyPaste">
   <img align="left" alt="CopyPaste Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -44,12 +44,12 @@ Languages and Tools🛠:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/MiDCopyPaste">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDCopyPaste&theme=tokyonight" />
+<a href="https://github.com/K0pyPaste">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0pyPaste&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/MiDCopyPaste">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiDCopyPaste&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/K0pyPaste">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=K0pyPaste&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
